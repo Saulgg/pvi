@@ -1,0 +1,6 @@
+C:\Users\Saul Garcia\AppData\Local\Temporary Projects\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Saul Garcia\AppData\Local\Temporary Projects\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Saul Garcia\AppData\Local\Temporary Projects\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Saul Garcia\AppData\Local\Temporary Projects\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\Saul Garcia\AppData\Local\Temporary Projects\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Saul Garcia\AppData\Local\Temporary Projects\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
